@@ -785,7 +785,6 @@ public class DeviceMirror {
                 }
             }
         }
-        Log.e("ousyxx", "success:" + success);
         return success;
     }
 
